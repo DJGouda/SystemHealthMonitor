@@ -11,3 +11,6 @@ SysGuard is a real-time system monitoring tool that tracks CPU, memory, and disk
 	•	psutil (for system monitoring)
 	•	Oracle SQL (for storing historical data)
 	•	Matplotlib (for visualizing data)
+	•	smtplib (for sending email when risk is raised
+ )
+ 
